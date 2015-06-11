@@ -319,6 +319,8 @@ a:before, a:after {
 .solophone{
 	margin-top: 20px;
 	margin-bottom: 100px;
+	min-height: 40%;
+	min-width: 40%;
 	max-height: 50%;
 	max-width: 50%;
 	display: block;
