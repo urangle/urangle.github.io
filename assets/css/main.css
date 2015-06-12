@@ -203,7 +203,10 @@ a:before, a:after {
 /* ==========================================================================
    Wrap Sections
    ========================================================================== */
-
+.navlogo {
+	display: block;
+	padding-top: 10px 0;
+}
 #headerwrap {
 	background: url(../img/test5.jpg) no-repeat center top;
 	margin-top: -50px;
