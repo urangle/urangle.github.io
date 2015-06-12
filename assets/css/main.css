@@ -203,10 +203,6 @@ a:before, a:after {
 /* ==========================================================================
    Wrap Sections
    ========================================================================== */
-.navlogo {
-	display: block;
-	padding-top: 10px 0;
-}
 #headerwrap {
 	background: url(../img/test5.jpg) no-repeat center top;
 	margin-top: -50px;
@@ -363,7 +359,7 @@ a:before, a:after {
 #contact .btn {
 	font-weight: 500;
 	font-size: 18px;
-	margin-top: 50px;
+	margin-top: 25px;
 	background-color: #90C25C;
 	color: #fff;
 	border: 0;
