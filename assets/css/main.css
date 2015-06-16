@@ -262,15 +262,9 @@ a:before, a:after {
 #intro {
 	background: #333;
 }
-#intro img {
-	max-width: 70%;
-	max-height: auto;
-	margin-top: 25px;
-}
 #intro h1 {
 	color: #F5F5F5;
 	font-size: 28px;
-	margin-left: 125px;
 	line-height: 1.4;
 	padding: 50px;
 	vertical-align: middle;
