@@ -267,6 +267,7 @@ a:before, a:after {
 	font-size: 35px;
 	text-align: center;
 	padding-top: 150px;
+	padding-bottom: 150px;
 	line-height: 1.4;
 }
 #intro ul li {
