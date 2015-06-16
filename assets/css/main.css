@@ -3,7 +3,7 @@ html, button, input, select, textarea {
 }
 body {
 	font-size: 1em;
-	line-height: 1.4;
+	line-height: 1.6;
 }
 
 /*
@@ -258,6 +258,27 @@ a:before, a:after {
 #video {
 	padding: 100px 0;
 	background: white;
+}
+#intro {
+	background: #333;
+}
+#intro h1 {
+	color: #F5F5F5;
+	font-size: 35px;
+	text-align: center;
+	padding-top: 150px;
+	line-height: 1.4;
+}
+#intro ul li {
+	text-align: center;
+	padding: 50px;
+	color: #F5F5F5;
+}	
+#intro p {
+	color: #F5F5F5;
+	text-align: center;
+	font-size: 30px;
+	padding: 50px;
 }
 #icons {
 	background: #333;
