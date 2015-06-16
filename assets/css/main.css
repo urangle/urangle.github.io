@@ -265,10 +265,9 @@ a:before, a:after {
 #intro h1 {
 	color: #F5F5F5;
 	font-size: 35px;
-	text-align: center;
-	padding-top: 150px;
-	padding-bottom: 150px;
+	margin-left: 125px;
 	line-height: 1.4;
+	padding: 125px;
 }
 #intro ul li {
 	text-align: center;
