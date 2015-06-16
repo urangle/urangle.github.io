@@ -265,6 +265,7 @@ a:before, a:after {
 #intro img {
 	max-width: 60%;
 	max-height: auto;
+	margin-top: 25px;
 }
 #intro h1 {
 	color: #F5F5F5;
