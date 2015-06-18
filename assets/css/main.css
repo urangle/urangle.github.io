@@ -366,6 +366,7 @@ a:before, a:after {
 }
 #faqs h2 {
 	font-size: 30px;
+	color: #50B1CE;
 }
 #faqs p {
 	margin-bottom: 2em;
