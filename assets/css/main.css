@@ -359,6 +359,17 @@ a:before, a:after {
 	color: #444;
 	text-align: center;
 }
+#faqs {
+	background: #F5F5F5;
+	padding: 35px 0;
+	text-align: center;
+}
+#faqs h2 {
+	font-size: 30px;
+}
+#faqs p {
+	margin-bottom: 2em;
+}
 #contact {
 	background: #fff;	
 	padding: 100px 0;
