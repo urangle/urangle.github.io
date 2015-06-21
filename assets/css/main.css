@@ -264,9 +264,13 @@ a:before, a:after {
 	display: block;
 	margin-left: auto;
 	margin-right: auto;
-	margin-top: 75px;
+	margin-top: 30px;
 	color: #fff;
 	background-color: #90C25C;
+	opacity: .4;
+}
+#video .btn:hover, #video .btn:focus {
+	opacity: 1;
 }
 #intro {
 	background: #333;
